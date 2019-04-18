@@ -1,0 +1,8 @@
+__pycache__
+.idea
+fonts
+images
+venv
+Twitter.py
+*.png
+.vscode
